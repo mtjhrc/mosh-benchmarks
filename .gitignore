@@ -1,0 +1,7 @@
+bin/
+echo-test/build
+echo-test/results
+prefix/
+
+checkerboard-test/build
+checkerboard-test/results
