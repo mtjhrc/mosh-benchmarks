@@ -2,7 +2,7 @@
 # Instruction how to run
 1. Build the dependencies:
 `./build.sh`
-2. copy/link the tested mosh-server and mosh-client binaries into the bin directory
+2. copy/link the tested mosh-server and mosh-client binaries into a bin directory in the root of the repository
 3. Make sure you have the required kernel:
 `sudo modprobe sch_netem`
 4. Enable the usage of the `TCP_THIN_LINEAR_TIMEOUTS` socket option:
